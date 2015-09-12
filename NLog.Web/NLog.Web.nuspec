@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>NLog.Web</id>
-    <version>$version$</version>
+    <version>2.1</version>
     <title>NLog.Web</title>
     <authors>NLog</authors>
     <owners>NLog</owners>
